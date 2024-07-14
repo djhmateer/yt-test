@@ -10,6 +10,7 @@ yt-dlp = "*"
 selenium = "*"
 pillow = "*"
 youtube-comment-downloader = "*"
+playwright = "*"
 
 [requires]
 python_version = "3.10"
